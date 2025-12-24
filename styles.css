@@ -7,7 +7,7 @@ body {
 .user-choose {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 30%;
+  width: 52%;
   text-align: center;
   margin: auto;
   margin-top: 18%;
@@ -18,67 +18,67 @@ body {
 .ru-simple-info {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 50%;
+  width: 52%;
   text-align: center;
   margin: auto;
   margin-top: 17px;
   padding: 15px;
-  border-radius: 87px;
+  border-radius: 80px;
 }
 
 .en-simple-info {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 50%;
+  width: 52%;
   text-align: center;
   margin: auto;
   margin-top: 17px;
   padding: 15px;
-  border-radius: 87px;
+  border-radius: 80px;
 }
 
 .ru-about-me {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 40%;
+  width: 42%;
   text-align: center;
   margin: auto;
   margin-top: 17px;
   padding: 15px;
-  border-radius: 87px;
+  border-radius: 80px;
 }
 
 .en-about-me {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 40%;
+  width: 42%;
   text-align: center;
   margin: auto;
   margin-top: 17px;
   padding: 15px;
-  border-radius: 87px;
+  border-radius: 80px;
 }
 
 .ru-contacts {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 20%;
+  width: 22%;
   text-align: center;
   margin: auto;
   margin-top: 13px;
   padding: 30px;
-  border-radius: 87px;
+  border-radius: 80px;
 }
 
 .en-contacts {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 20%;
+  width: 22%;
   text-align: center;
   margin: auto;
   margin-top: 13px;
   padding: 30px;
-  border-radius: 87px;
+  border-radius: 80px;
 }
 
 a {
@@ -97,7 +97,6 @@ en-footer {
   color: #bdc7f0;
   text-align: center;
   margin: auto;
-
 }
 
 /* Обновление кода, для того чтобы на телефонах было лучше, это единственное что сделал не я сам во всем проекте.
@@ -123,3 +122,4 @@ en-footer {
     font-size: 1em !important;
   }
 }
+
