@@ -7,12 +7,12 @@ body {
 .user-choose {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   background-color: #bdc7f0;
-  width: 52%;
+  width: 56%;
   text-align: center;
   margin: auto;
-  margin-top: 18%;
-  padding: 15px;
-  border-radius: 60px;
+  margin-top: 17%;
+  padding: 16px;
+  border-radius: 55px;
 }
 
 .ru-simple-info {
@@ -122,4 +122,5 @@ en-footer {
     font-size: 1em !important;
   }
 }
+
 
