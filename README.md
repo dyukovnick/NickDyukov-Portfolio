@@ -8,7 +8,7 @@ This is my first website project after learning HTML and CSS for one week.
 - Duration: ~4 hours
 
 ## Usage
-Open index..htmll in a browser to see the website.
+Open index.html in a browser to see the website.
 
 ## Author
 Nikita Dyukov
