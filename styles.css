@@ -25,7 +25,7 @@ body {
   background-color: #bdc7f0;
   width: 720px;
   text-align: center;
-  padding: 8px;
+  padding: 10px;
   margin-top: 15px;
   border-radius: 87px;
   box-shadow: 0px 5px 37px rgba(0, 0, 0, 0.6);
@@ -46,7 +46,7 @@ body {
   background-color: #bdc7f0;
   width: 400px;
   text-align: center;
-  padding: 8px;
+  padding: 10px;
   border-radius: 87px;
   box-shadow: 0px 5px 37px rgba(0, 0, 0, 0.6);
 }
@@ -63,8 +63,8 @@ footer {
 
 @media (max-width: 767px) {
   .user-choose, .simple-info, .about-me, .contacts {
-    width: 90% !important;
-    padding: 10px !important;
+    width: 93% !important;
+    padding: 12px !important;
   }
 }
 
